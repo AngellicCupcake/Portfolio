@@ -1,0 +1,36 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color:#FFDFDB;
+}
+
+p {
+    font-family: Arial;
+    font-size: 12px;
+    color: #000;
+}
+
+.bannerimg {
+    height: 240px;
+    background-image: url("");
+    margin: 0 auto;
+    padding: 0px;
+    background-color: #fff;
+}
+
+.pbox {
+    padding: 10px;
+    margin: 10px;
+    background-color: #FFF;
+    border-radius: 30px;
+}
+
+h1{
+    font-family: 'sassy_molassyregular';
+    font-size: 30px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    
+    
+}
